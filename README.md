@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janet Olanrewaju
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning
+- 👀 I’m interested in Frontend Web Development and Python
+-  🌱 I’m currently taking online courses to improve my skills and become an expert in the world of tech.
 - 💞️ I’m looking to collaborate with experts in this field and i'm opened to opportunities in this area
 - 📫 How to reach me via whatsapp 08128897343 and @ Janet.olanrewaju@yahoo.com
 
